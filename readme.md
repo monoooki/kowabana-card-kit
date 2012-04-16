@@ -6,6 +6,8 @@ kowabana-card-kit とは、[FJORD, LLC](http://fjord.jp/)が運営する怖い�
 怖いカードって？
 ----------------
 オリジナルはフィヨルドの[町田さん](https://twitter.com/#!/machida)が持っています。  
+(オリジナルがコミットされました)
+
 ![本物の怖いカード](http://gyazo.com/77b2583bd42eec45dd0decb54646624f.png)
 
 こちらのPSDは真似て作った偽物になります。
